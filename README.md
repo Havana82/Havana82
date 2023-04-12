@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Halima
-- 👀 I’m currently improving my knowledge frontend and backend technologies
+- 👀 I’m currently improving my knowledge on frontend and backend technologies
 - 🌱 I currently write in Python and JavaScript. Some Java
 - 💞️ I’m looking to collaborate on 
     intermediate level projects 
