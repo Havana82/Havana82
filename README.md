@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Halima
+- 👋 Hi, I’m Halimat
 - 👀 I’m currently improving my knowledge on frontend and backend technologies
 - 🌱 I currently write in Python and JavaScript. Some Java
 - 💞️ I’m looking to collaborate on 
